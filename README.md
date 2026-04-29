@@ -58,7 +58,7 @@ Before first launch, verify the ZIP hash with PowerShell:
 
 If the hash does not match, delete the ZIP and download it again.
 
-Important GitHub note: the generated ZIP can be larger than GitHub's normal 100 MiB per-file repository limit. When that applies, keep the README and checksum in the repository and attach the ZIP to GitHub Releases instead of committing the ZIP as a normal repository file.
+Important GitHub note: the generated ZIP can be larger than GitHub's normal 100 MiB per-file repository limit. When that applies, track the ZIP with Git LFS or keep the README and checksum in the repository and attach the ZIP to GitHub Releases instead of committing the ZIP as a normal repository file.
 
 ## Quick start
 
@@ -173,7 +173,7 @@ Expected SHA256: 7b59e7fad653aa9607c19fcc84eb3d75ae3b57b86ecb5bff4ef389604d30d6c
 
 hash が一致しない場合は、ZIP を削除して再ダウンロードしてください。
 
-重要: 生成される ZIP は GitHub の通常 repository file limit である 100 MiB を超える場合があります。その場合、ZIP を repository に直接 commit せず、README と checksum を repository に置き、ZIP は GitHub Releases の asset として添付してください。
+重要: 生成される ZIP は GitHub の通常 repository file limit である 100 MiB を超える場合があります。その場合、ZIP は Git LFS で管理するか、repository には README と checksum を置き、ZIP は GitHub Releases の asset として添付してください。
 
 ## 使い方
 
