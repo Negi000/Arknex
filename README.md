@@ -49,7 +49,7 @@ Runtime package: Arknex-1.0.0.0-win-x64.zip
 
 Checksum sidecar: Arknex-1.0.0.0-win-x64.zip.sha256
 
-Expected SHA256: 693c22ca96d17a1b0fc04296057fb16d9624fae7b59f7bb1dc757508a3848aae
+Expected SHA256: 731af77974b64b843f1a7a36e9003db308cfc8da1ac6de86ae7306d88abd53ec
 
 Before first launch, verify the ZIP hash with PowerShell:
 
@@ -164,7 +164,7 @@ Runtime package: Arknex-1.0.0.0-win-x64.zip
 
 Checksum sidecar: Arknex-1.0.0.0-win-x64.zip.sha256
 
-Expected SHA256: 693c22ca96d17a1b0fc04296057fb16d9624fae7b59f7bb1dc757508a3848aae
+Expected SHA256: 731af77974b64b843f1a7a36e9003db308cfc8da1ac6de86ae7306d88abd53ec
 
 初回起動前に PowerShell で checksum を確認してください。
 
