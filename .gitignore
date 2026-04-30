@@ -1,9 +1,0 @@
-﻿# Release-only repository helper ignores.
-# Keep ZIP assets, checksums, and root Markdown docs tracked.
-Thumbs.db
-desktop.ini
-.DS_Store
-*.tmp
-*.log
-_extracted/
-extracted/
